@@ -1,0 +1,67 @@
+.createbutton {
+    margin-bottom: 20px;
+    text-align: right;
+}
+.alert.customsuccess {
+    background: #d9e6c3 none repeat scroll 0 0;
+    border: 1px solid #77ab13;
+    color: #69990f;
+    font-weight: 600;
+}
+.alert.customdanger {
+    background: #f2d4ce none repeat scroll 0 0;
+    border: 1px solid #ae432e;
+    color: #cc0000;
+}
+.modal-body.panel-body {
+    font-size: 40px;
+    text-align: center;
+}
+.close {
+    color: #000;
+    float: right;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 0;
+    opacity: 0.2;
+    text-shadow: 0 1px 0 #fff;
+} 
+.customcontainer {
+    display: inline-table;
+    margin: 0;
+    padding: 0 20px;
+    width: 100%;
+}
+
+.label {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;
+    color: #000;
+    display: inline-table;
+    font-size: 12px;
+    text-align: left;
+    text-transform: none;
+    width: 100%;
+}
+.input {
+    font-size: 12px;
+    margin: 0;
+    width: 100%;
+}
+
+.input > input {
+    display: inline-table;
+    margin: 0;
+    padding: 5px;
+    width: 100%;
+}   
+.input > textarea {
+    width: 100%;
+}
+
+.customaction {
+    cursor: pointer;
+}
+
+.customaction:hover{
+    text-decoration: none;
+}
